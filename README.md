@@ -1091,7 +1091,6 @@ ASN|OrgName|OrgID|prefixos... (Tradução da própria descrição fornecida pelo
 - ### Amapá (AP) <a name="amapa"></a>
 - ### Amazonas (AM) <a name="amazonas"></a>
 - ### Bahia (BA) <a name="bahia"></a>details>
-        <summary>Consultas GO</summary>
      
     - Consulta veículos/infrações - https://servicos.detran.ba.gov.br/veiculos/licenciamentoinfracoes
 
