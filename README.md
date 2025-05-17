@@ -1091,9 +1091,12 @@ ASN|OrgName|OrgID|prefixos... (Tradução da própria descrição fornecida pelo
 - ### Amapá (AP) <a name="amapa"></a>
 - ### Amazonas (AM) <a name="amazonas"></a>
 - ### Bahia (BA) <a name="bahia"></a>
-     
-    - Consulta veículos/infrações - https://servicos.detran.ba.gov.br/veiculos/licenciamentoinfracoes
-
+<details>
+    <summary>Consultas BA</summary>
+    
+    - Consulta veículos/infrações: https://servicos.detran.ba.gov.br/veiculos/licenciamentoinfracoes
+    
+</details>
 - ### Ceará (CE) <a name="ceara"></a>
 - ### Distrito Federal (DF) <a name="distrito-federal"></a>
 - ### Espírito Santo (ES) <a name="espirito-santo"></a>
