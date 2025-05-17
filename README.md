@@ -1090,7 +1090,7 @@ ASN|OrgName|OrgID|prefixos... (Tradução da própria descrição fornecida pelo
 - ### Alagoas (AL) <a name="alagoas"></a>
 - ### Amapá (AP) <a name="amapa"></a>
 - ### Amazonas (AM) <a name="amazonas"></a>
-- ### Bahia (BA) <a name="bahia"></a>details>
+- ### Bahia (BA) <a name="bahia"></a>
      
     - Consulta veículos/infrações - https://servicos.detran.ba.gov.br/veiculos/licenciamentoinfracoes
 
