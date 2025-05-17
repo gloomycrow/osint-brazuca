@@ -1094,9 +1094,9 @@ ASN|OrgName|OrgID|prefixos... (Tradução da própria descrição fornecida pelo
 <details>
     <summary>Consultas BA</summary>
     
-    - Consulta veículos/infrações: https://servicos.detran.ba.gov.br/veiculos/licenciamentoinfracoes
+    - Consulta de veículos e infrações: https://servicos.detran.ba.gov.br/veiculos/licenciamentoinfracoes
     
-</details>
+   </details>
 - ### Ceará (CE) <a name="ceara"></a>
 - ### Distrito Federal (DF) <a name="distrito-federal"></a>
 - ### Espírito Santo (ES) <a name="espirito-santo"></a>
